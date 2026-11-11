@@ -1,0 +1,6 @@
+{
+  "name": "SnailHRA - India Employer of Record & Global Payroll",
+  "description": "Hire, pay, and manage your Indian workforce through SnailHRA — the all-in-one Employer of Record, multi-currency global payroll, and statutory compliance partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
